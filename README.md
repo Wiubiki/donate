@@ -59,6 +59,7 @@ Omissions aren't on purpose, feel free to fork and add whatever I've missed.
 * [LibreOffice](https://www.libreoffice.org/donate/)
 * [OpenShot](https://www.patreon.com/openshot)
 * [Spectacle](https://www.spectacleapp.com/) - Link below the download button
+* [Wine](https://www.winehq.org/donate)
 
 ## Editors
 
